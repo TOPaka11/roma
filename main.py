@@ -19,10 +19,10 @@ def power(x, y):
     return x ** y
 
 def square_root(x):
-    return x ** 0.5
+    return x ** 0.5н
 
 
-print("Выберите операцию.")
+print("Выберите операцию.Пожалуйста")
 print("1.Сложить")
 print("2.Вычесть")
 print("3.Умножить")
